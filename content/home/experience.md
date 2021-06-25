@@ -2,19 +2,16 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: ComSciCon en Español
+    company: Participant
     company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
+    company_logo: ""
+    location: ""
+    date_start: Spring 2021
     date_end: ""
     description: |-2
-        Responsibilities include:
+        Participated  in  the  first  edition  of  the  Spanish  version  of  ComSciCon,  a  group  ofworkshops for graduate students to advance communication     skills and promote diversityinitiatives in the sciences
         
-        * Analysing
-        * Modelling
-        * Deploying
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
