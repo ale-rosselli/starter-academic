@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Java
 - description: 
-  icon: matlab
+  icon: matlab2
   icon_pack: custom
   name: Matlab
 - description: 
