@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Brown University
+    url: https://www.brown.edu/
 education:
   courses:
     - course: PhD in Physics
