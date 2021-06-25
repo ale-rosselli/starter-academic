@@ -1,7 +1,7 @@
 ---
 title: Alejandra Rosselli-Calderon
 role: Physics PhD Student at Brown University
-avatar_filename: photo-2021-06-18-16-13-25.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
