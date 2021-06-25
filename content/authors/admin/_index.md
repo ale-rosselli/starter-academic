@@ -35,8 +35,9 @@ education:
     - course: BA in Physics
       institution: Clark University
       year: 2020
-email: ""
+email: alejandra_rosselli@brown.edu
 superuser: true
+user_groups: []
 highlight_name: false
 ---
 
