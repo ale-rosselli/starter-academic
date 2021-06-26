@@ -1,4 +1,3 @@
-draft: true
 
 ---
 widget: accomplishments
@@ -28,9 +27,10 @@ item:
     organization_url: https://www.datacamp.com
     title: Object-Oriented Programming in R
     url: ""
+draft: true
 widget_id: accomplishments
 headless: true
-weight: 50
+weight: 0
 title: ""
 subtitle: null
 design:
