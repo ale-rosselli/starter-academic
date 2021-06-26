@@ -20,7 +20,7 @@ experience:
     date_start: 01-01-2010
     date_end: ""
     description: Program lead by Clark University volunteers to supply freedom of classes outside theK-12 curriculum to local students. Served as co-instructor and class leader for two classes, one on black hole and imaging geared and one on stars and galaxies
-widget_id: Outreach
+widget_id: experience
 headless: true
 weight: 40
 title: Outreach
