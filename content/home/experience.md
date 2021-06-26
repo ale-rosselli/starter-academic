@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: ComSciCon en Español
+  - title: ComSciCon en Espanol
     company: Participant
     company_url: ""
     company_logo: ""
