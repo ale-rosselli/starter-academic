@@ -1,3 +1,6 @@
+# Order that this section appears on the page.
+weight: 0
+
 ---
 widget: accomplishments
 date_format: Jan 2006
