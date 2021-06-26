@@ -7,7 +7,7 @@ experience:
     company_url: ""
     company_logo: ""
     location: ""
-    date_start: 01-01-2010
+    date_start: '2016-01-01'
     date_end: ""
     description: |-2
         Participated  in  the  first  edition  of  the  Spanish  version  of  ComSciCon,  a  group  of workshops for graduate students to advance 
@@ -18,7 +18,7 @@ experience:
     company_url: ""
     company_logo: ""
     location: ""
-    date_start: 01-01-2010
+    date_start: '2016-01-01'
     date_end: ""
     description: |-2
          Program lead by Clark University volunteers to supply freedom of classes outside theK-12 curriculum to local students. 
