@@ -11,7 +11,7 @@ main:
     url: '#skills'
     weight: 20
   - name: Outreach
-    url: '#experience'
+    url: '#achievements'
     weight: 30
 #  - name: Talks
 #    url: '#talks'
