@@ -2,13 +2,13 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: "https://comscicon.com/comscicon-en-espa%C3%B1ol-2021"
     date_end: ""
-    date_start: 2021-01-25
+    date_start: 2021-06-23
     description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Participant
+    organization_url: ""
+    title: ComSciCon en Español
     url: ""
   - certificate_url: https://www.edx.org
     date_end: ""
