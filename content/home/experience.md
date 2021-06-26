@@ -11,7 +11,7 @@ experience:
     date_end: ""
     description: |-2
         Participated  in  the  first  edition  of  the  Spanish  version  of  ComSciCon,  a  group  of workshops for graduate students to advance 
-        communication     skills and promote diversity initiatives in the sciences
+        communication skills and promote diversity initiatives in the sciences
         
   - title: SPLASH Program
     company: Volunteer Instructor
@@ -21,7 +21,7 @@ experience:
     date_start: '2016-01-01'
     date_end: ""
     description: |-2
-         Program lead by Clark University volunteers to supply freedom of classes outside theK-12 curriculum to local students. 
+         Program lead by Clark University volunteers to supply freedom of classes outside the K-12 curriculum to local students. 
          Served as co-instructor and class leader for two classes, one on black hole and imaging geared and one on stars and galaxies
 widget_id: Outreach
 headless: true
