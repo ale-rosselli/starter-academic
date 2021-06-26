@@ -2,7 +2,7 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: "https://comscicon.com/comscicon-en-espa%C3%B1ol-2021"
+  - certificate_url: https://comscicon.com/comscicon-en-espa%C3%B1ol-2021
     date_end: ""
     date_start: 2021-06-23
     description: ""
@@ -26,10 +26,10 @@ item:
     organization_url: https://www.datacamp.com
     title: Object-Oriented Programming in R
     url: ""
-widget_id: Outreach
+widget_id: accomplishments
 headless: true
 weight: 50
-title: Outreach
+title: ""
 subtitle: null
 design:
   columns: "2"
